@@ -1,16 +1,18 @@
-### Hi there 👋
+<img width="300px" align="right" src="https://vineethtrv.github.io/assets/images/vineethtrv.jpg"/>
 
-<!--
-**vineethtrv/vineethtrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, 
 
-Here are some ideas to get you started:
+Hi. I’m Vineeth TR. I am a 👨‍💻 web developer from 🇮🇳 passionate about 👨🏻‍🔧 building things that improve the lives of those around me. For more details Please Check [My portfolio 🖱️](https://vineethtrv.github.io/)! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning 🐍 Phython
+- 💬 Ask me about HTML, CSS, SASS, JavaScript, TypeScript, Angular, Git
+- 📫 Reach me at vineethtrv@gmail.com or Twitter [@vineethtrv](https://twitter.com/vineethtrv)
+- ✍️ I blog on [DEV](https://dev.to/vineethtrv) sometimes 😉
+
+
+### 🌎 My Languages 🌎
+
+- 🇺🇸 English
+- 🇮🇳 Malayalam
+- 🇮🇳 Hindi 👶	
+

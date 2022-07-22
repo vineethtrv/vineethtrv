@@ -39,7 +39,6 @@ I am a 👨‍💻 web developer from 🇮🇳 India passionate about 👨🏻�
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
 [![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 
 ### 🧰 Tools I use

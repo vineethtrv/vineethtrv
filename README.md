@@ -23,13 +23,13 @@ I am a 👨‍💻 web developer from 🇮🇳 India passionate about 👨🏻�
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,pug,sass,typescript,angular,react,vuejs,jquery,bootstrap,tailwind,materialui,nodejs,express,webpack,python,wordpress,jest&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,pug,sass,typescript,angular,react,vuejs,jquery,bootstrap,tailwind,materialui,nodejs,express,webpack,python,wordpress,jest&theme=light)](https://vineethtrv.github.io)
 
 
 ### 🧰 Tools I use
 
 
-[![My Tools](https://skills.thijs.gg/icons?i=vscode,git,figma,powershell,docker,firebase,ps)](https://skills.thijs.gg)
+[![My Tools](https://skills.thijs.gg/icons?i=vscode,git,figma,powershell,docker,firebase,ps)](https://vineethtrv.github.io)
 
 
 

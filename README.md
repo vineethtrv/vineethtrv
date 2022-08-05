@@ -8,7 +8,7 @@ I am a 👨‍💻 web developer from 🇮🇳 India passionate about 👨🏻�
 - 🌱 I’m currently learning 🐍 Phython
 - 💬 Ask me about HTML, CSS, SASS, JavaScript, TypeScript, Angular, Git
 - ✍️ I blog on [DEV](https://dev.to/vineethtrv) sometimes 😉
-- ⚡ Fun fact: I go to the GYM very often.
+- ⚡ Fun fact: I go to the GYM very often
 
 
 ### 🔦 Find me in

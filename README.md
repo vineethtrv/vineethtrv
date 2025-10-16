@@ -4,9 +4,9 @@
 
 I am a 👨‍💻 web developer from 🇮🇳 India passionate about 👨🏻‍🔧 building things that improve the lives of those around me. For more details Please Check [My portfolio 🖱️](https://vineethtrv.github.io/)! 
 
-- 🔭 I’m currently working at CSS-Shadow helper 
+- 🔭 I’m currently working at [CSS Loaders](https://cssloaders.github.io/) UI revamp
 - 🌱 I’m currently learning 🐍 Phython
-- 💬 Ask me about HTML, CSS, SASS, JavaScript, TypeScript, Angular, Git
+- 💬 Ask me about HTML, CSS, SASS, JavaScript, TypeScript, React, Angular, Micro Front End, Git
 - ✍️ I blog on [DEV](https://dev.to/vineethtrv) sometimes 😉
 - ⚡ Fun fact: I go to the GYM very often
 

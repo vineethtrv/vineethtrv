@@ -19,19 +19,9 @@ I am a 👨‍💻 web developer from 🇮🇳 India passionate about 👨🏻�
 [![Mail Badge](https://img.shields.io/badge/-vineethtrv-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vineethtrv@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-vineethtrv-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/vineethtrv)
 
-### 🪄 Technologies I use
+### 🪄 I use
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,pug,sass,typescript,angular,react,vuejs,jquery,bootstrap,tailwind,materialui,nodejs,express,webpack,python,wordpress,jest&theme=light)](https://vineethtrv.github.io)
-
-
-### 🧰 Tools I use
-
-
-[![My Tools](https://skills.thijs.gg/icons?i=vscode,git,figma,powershell,docker,firebase,ps)](https://vineethtrv.github.io)
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,angular,vuejs,svelte,pug,sass,less,nodejs,expressjs,mongodb,jquery,threejs,electron,flutter,tailwindcss,bootstrap,materialui,svg,nextjs,webassembly,figma,xd,git,github,firebase,bitbucket,azure,vite,webpack,astro,wordpress,codepen,regex,vercel,aws,redux,androidstudio,bash,githubactions,bun,d3,dart,devto,discord,graphql,jest,markdown,mysql,npm,powershell,arduino,docker,vscode,postman,photoshop,webstorm,yarn&theme=dark&perline=15)](https://skillicons.dev)
 
 ### 🔗 My Languages
 
